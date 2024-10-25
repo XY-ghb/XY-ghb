@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align=middle>
 
-<!--
-**XY-ghb/XY-ghb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xhit-ux&count_private=true&show_icons=true)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=xhit-ux&layout=compact&show_icons=true)
+[![wakatime](https://wakatime.com/badge/user/018affad-e5c0-4abc-8b03-8bef1d71dd75.svg)](https://wakatime.com/@018affad-e5c0-4abc-8b03-8bef1d71dd75)
+[![Static Badge](https://img.shields.io/badge/Blog-xhit--ux-tan)](https://xhit-ux.com)
+
+
+</div>
+<div id="img" align=middle>
+
+</div>
